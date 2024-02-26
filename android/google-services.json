@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380666212068",
+    "project_id": "shferreteria-873ba",
+    "storage_bucket": "shferreteria-873ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380666212068:android:e754c256460d0be9b8c6f1",
+        "android_client_info": {
+          "package_name": "com.jeant.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380666212068-rudf1g2j989s3bnv61grctvvalgvi25k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnUByIZsIKgeoWsMG8ka2SRHXuvsd_m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380666212068-rudf1g2j989s3bnv61grctvvalgvi25k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
