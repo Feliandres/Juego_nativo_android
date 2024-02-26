@@ -25,16 +25,20 @@ Implementar una aplicación Android nativa que me permita interactuar mediante l
 
 El Link de la APK se encuentra 👉 <a href="">aqui</a>
 
-El video de refencia se encuentra 👉 <a href="">Taqui</a>
+El video de referencia se encuentra 👉 <a href="https://youtu.be/N8PnhYDs2-M?si=YgB8r-rwY01CdVDp">Taqui</a>
 
 ## Screenshots :
 
+![Screenshot 2024-02-26 032311](https://github.com/Feliandres/Juego_nativo_android/assets/74752987/8d34bb70-9d98-43af-b896-cf465b8e2253)
+![Screenshot 2024-02-26 032153](https://github.com/Feliandres/Juego_nativo_android/assets/74752987/4f638189-86b6-4354-b786-6ddaf09efba7)
+![Screenshot 2024-02-26 032223](https://github.com/Feliandres/Juego_nativo_android/assets/74752987/385ea657-3cef-4ec8-b880-4125a3ba6fcd)
 
 ## Para ejecutar esta aplicación
 
 <ol>
-<li>Descargar el ejecutable de <a href ="[https://www.themoviedb.org/](https://libgdx.com/)">LibGDX</a>.</li>
-<li>COnfigurar el proyecto, marcar casilla Box2d</li>
-<li>Generar aplicacion y abrir con Android Studio</b></li>
+<li>Descargar el ejecutable de <a href ="https://libgdx.com/">LibGDX</a>.</li>
+<li>Clonar el repo</li>
+<li>Abrir con Android Studio</b></li>
+<li>Configurar aplicacion para escritorio</b></li>
 
 </ol>
