@@ -41,6 +41,6 @@ El video de referencia se encuentra 👉 <a href="https://youtu.be/N8PnhYDs2-M?s
 <li>Clonar el repo</li>
 <li>Abrir con Android Studio</b></li>
 <li>Configurar aplicacion para escritorio en edit config y colocar la clase DesktopLauncher</b></li>
-<li>Para android, colocar en el AndrodManifest -> application -> "portrait"</b></li>
+<li>Para android, colocar en el AndrodManifest -> application -> activity -> android:screenOrientation="portrait" </b></li>
 
 </ol>
