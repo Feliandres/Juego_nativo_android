@@ -40,6 +40,7 @@ El video de referencia se encuentra 👉 <a href="https://youtu.be/N8PnhYDs2-M?s
 <li>Descargar el ejecutable de <a href ="https://libgdx.com/">LibGDX</a>.</li>
 <li>Clonar el repo</li>
 <li>Abrir con Android Studio</b></li>
-<li>Configurar aplicacion para escritorio</b></li>
+<li>Configurar aplicacion para escritorio en edit config y colocar la clase DesktopLauncher</b></li>
+<li>Para android, colocar en el AndrodManifest, lo siguiente en aplication -> "portrait"</b></li>
 
 </ol>
